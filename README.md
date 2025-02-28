@@ -1,7 +1,7 @@
 # Data Warehouse and Business Intelligence for Olist’s Finance and Customers
 
 <p align="center">
-  <img src="path/to/image.jpg" alt="Descriptive Alt Text" width="600"/>
+  <img src="images/BalanceScorecard.png" alt="BalanceScorecard" width="600"/>
 </p>
 
 ## 📌 **Domain Proyek**
