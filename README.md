@@ -1,5 +1,9 @@
 # Data Warehouse and Business Intelligence for Olist’s Finance and Customers
 
+<p align="center">
+  <img src="path/to/image.jpg" alt="Descriptive Alt Text" width="600"/>
+</p>
+
 ## 📌 **Domain Proyek**
 Lorem ipsum odor amet, consectetuer adipiscing elit. Augue vivamus dictumst primis cursus feugiat venenatis interdum finibus. Tortor rhoncus elementum potenti tortor nisi, amet cras augue. Ac volutpat aenean posuere velit; pulvinar molestie porta. Consequat maecenas sapien rutrum posuere litora facilisi vitae ultricies dapibus. Feugiat porta dolor placerat duis vivamus maecenas. Potenti nisi cras aptent integer ut viverra, nibh sodales. Class porttitor et montes gravida egestas maecenas phasellus feugiat.
 
